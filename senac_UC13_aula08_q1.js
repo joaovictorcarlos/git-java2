@@ -12,7 +12,6 @@ function verificarIdade(idade) {
     }
 }
 
-
 console.log(verificarIdade(15));  // Saída: Menor de idade
 console.log(verificarIdade(18));  // Saída: Maior de idade
 console.log(verificarIdade(21));  // Saída: Maior de idade
